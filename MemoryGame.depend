@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701559337 source:c:\users\joaom\desktop\aula logica faculdade\memorygame\main.cpp
+	<iostream>
+	<locale.h>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
